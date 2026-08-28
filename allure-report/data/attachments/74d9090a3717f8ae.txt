@@ -1,0 +1,8 @@
+ADMIN
+PIM
+Leave
+Time
+Recuritment
+Myinfo
+Perfomance
+Dashboard

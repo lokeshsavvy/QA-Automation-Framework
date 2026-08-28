@@ -28,3 +28,31 @@ pytest -v -s
 ## Generate Report
 
 pytest -v --html=reports/guvi_report.html --self-contained-html
+
+---------
+
+Project 2 - OrangeHRM Automation
+
+Framework:
+- Python
+- Selenium
+- PyTest
+- OpenPyXL
+- Allure Reports
+- HTML Reports
+
+Test Cases:
+1. Data Driven Login
+2. URL Validation
+3. Login Field Validation
+4. Main Menu Validation
+5. Add User
+6. Search User
+7. Forgot Password
+8. My Info Validation
+9. Assign Leave
+10. Create Claim
+
+Execution Result:
+10 Passed
+0 Failed

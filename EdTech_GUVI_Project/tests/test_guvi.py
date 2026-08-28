@@ -1,5 +1,5 @@
-from EdTech_GUVI_Project.pages.homepage import HomePage
-from EdTech_GUVI_Project.pages.loginpage import LoginPage
+from OrangeHRM_Project import HomePage
+from OrangeHRM_Project import LoginPage
 
 def test_verify_url(driver):
     home = HomePage(driver)
